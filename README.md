@@ -11,3 +11,4 @@ Complete documentation is available in the [Wiki](../../wiki).
 ---
 
 *This repository only contains user documentation for Notification PRO Shopify app.*
+Can't find what you're looking for? Contact support at service@ubsogroup.com
