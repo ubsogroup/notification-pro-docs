@@ -6,7 +6,7 @@ Complete documentation is available in the [Wiki](../../wiki).
 
 - [Documentation Home](../../wiki)
 - [API Documentation](https://app.swaggerhub.com/apis/universitydestrasbou/notification-pro-api/1.0.0)
-- [Video Tutorial](https://youtu.be/YOUR_VIDEO_ID)
+- [Video Tutorial](https://github.com/ubsogroup/notification-pro-docs/wiki/Video-Tutorials)
 
 ---
 
